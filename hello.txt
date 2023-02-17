@@ -1,4 +1,2 @@
 hello
-ha
-learn git
-i
+hai
